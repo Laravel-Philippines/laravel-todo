@@ -6,7 +6,7 @@ Laravel-ToDo lets you create new tasks, edit them, delete them for yourself or a
 
 ## Technical requirements
 * Laravel (*PHP*) v5.5 LTS
-* Vue.js (*JS*) >= 2.5.13
+* Vue.js (*JS*) >= 2.5.16
 * Bootstrap v4 (basic CSS only)
 * MySQL (*SQL*) >= v5.7
 
